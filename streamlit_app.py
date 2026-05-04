@@ -3,6 +3,6 @@ import pandas as pd
 import numpy as np 
 import joblib
 
-st.title('🎈FRAUD DETECTION PREDICTION APP )
+st.title('🎈FRAUD DETECTION PREDICTION APP' )
 
 
