@@ -5,6 +5,6 @@ import joblib
 
  model = joblib.load("/content/fraud_detection_pipelie.pkl")
 
-st.title('🤖Fraud detection prediction app')
+st.title('🤖 Fraud detection prediction app')
 
 
