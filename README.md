@@ -1,6 +1,6 @@
 # 📦 Streamlit App Starter Kit 
 ```
-⬆️ (Replace above with your app's name)
+st.title('🖲Fraud detection App')
 ```
 
 Description of the app ...
